@@ -1,0 +1,9 @@
+# Node Modules (commitzen dependences)
+/node_modules/
+
+# Commitzen Configuation
+.czrc
+.cz-config.js 
+package.json
+package-lock.json
+cz-config.js
