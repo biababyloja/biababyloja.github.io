@@ -1,0 +1,62 @@
+.titleArea{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.titleArea h1, h2{
+    margin: 0;
+    text-align: center;
+    font-weight:900;
+
+}
+
+.titleArea h1{
+    font-size: 29px;
+    letter-spacing: 7px;
+}
+
+.titleArea h2{
+    font-size: 18px;
+    font-weight: 900;
+    letter-spacing: 3px;
+}
+
+.title{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.title div{
+    margin-right: 2px;
+    margin-left: 2px;
+}
+
+.pink{
+    color: rgb(244, 103, 153);
+}
+
+.yellow{
+    color: rgb(252, 203, 60)
+}
+
+.blue{
+    color: rgb(100, 200, 243);
+}
+
+/* LINKS OF MAIN TITLE */
+
+.mainLinks{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.mainLinks h3{
+    margin: 4px;
+}
